@@ -2,4 +2,4 @@
 Game Tebak Angka berbasis mobile cross platform menggunakan react native
 
 ## Preview
-![https://user-images.githubusercontent.com/58913447/132854741-60da0a4f-b253-464f-b5ce-0ba2136416cc.mp4](https://user-images.githubusercontent.com/58913447/132854741-60da0a4f-b253-464f-b5ce-0ba2136416cc.mp4)
+![preview](![preview](https://user-images.githubusercontent.com/58913447/132855792-5668f19d-3398-4f4d-84ab-3cdbd204bbb9.gif)
